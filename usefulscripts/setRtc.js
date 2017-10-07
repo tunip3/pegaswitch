@@ -1,4 +1,4 @@
-var time = 1499774400; //Unix time for July 11th, 2017, time needed for flog
+var time = 1486684861; //Unix time for July 11th, 2017, time needed for flog
 
 sc.getService("time:s", (time_s)=>{
 	/*
